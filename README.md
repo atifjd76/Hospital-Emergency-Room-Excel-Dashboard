@@ -10,6 +10,8 @@ Gender wise daily patient count,
 Percentage of patients admitted,
 Department wise referral of patients.
 
+![image alt](https://github.com/atifjd76/Hospital-Emergency-Room-Excel-Dashboard/blob/bfb2f76cfe66fc22f0bcc4762711dd63c9136a46/ER_Dashboard.png)
+
 Files included:
 Hospital Emergency Room Data.csv (Source Data),
 Er_Dashboard.png (Dashboard Screenshot) and
