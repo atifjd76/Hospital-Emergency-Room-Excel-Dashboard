@@ -15,7 +15,7 @@ Hospital Emergency Room Data.csv (Source Data),
 Er_Dashboard.png (Dashboard Screenshot) and
 Project_ER HHospital.xlsx (Excel File)
 
-Tools Used
+Tools Used:
 Microsoft Excel,
 Pivot Tables,
 Pivot Charts,
