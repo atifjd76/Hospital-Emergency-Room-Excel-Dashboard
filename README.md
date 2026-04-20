@@ -1,7 +1,7 @@
-Hospital Emergency Room Dashboard
+Hospital Emergency Room Dashboard -
 This Project is an interactive dashboard designed to analyze the performance of a hospital emergency room. It visualizes the key performance indicators according to daily trends over the span of almost two years to help in decision making of hospital management.
 
-Project Overview
+Project Overview:
 Daily Trend of toatal number of patients coming to hospital,
 Age group distribution of daily patient count,
 Average waiting time of patients,
